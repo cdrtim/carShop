@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Audi</key>
+	<dict>
+		<key>name</key>
+		<string>Ô tô Audi Series</string>
+		<key>price</key>
+		<string>100.000$ - 500.000$</string>
+		<key>images</key>
+		<array>
+			<string>Audi A7.jpg</string>
+			<string>Audi Q5.jpg</string>
+			<string>Audi R10.jpg</string>
+			<string>Audi R8.jpg</string>
+			<string>Audi-A3.jpg</string>
+			<string>Audi-Q7.jpg</string>
+			<string>audi-s5.jpg</string>
+			<string>xe-audi-A4.jpg</string>
+		</array>
+		<key>content</key>
+		<string>http://www.audi.vn/sea/brand/vn.html</string>
+	</dict>
+	<key>BMW</key>
+	<dict>
+		<key>name</key>
+		<string>Ô tô BMW</string>
+		<key>price</key>
+		<string>100.000$ ++</string>
+		<key>images</key>
+		<array>
+			<string>BMW i8.jpg</string>
+			<string>BMW X5.jpg</string>
+			<string>BMW x6.png</string>
+			<string>bmw-m6.jpg</string>
+			<string>BMW7 Carmudi.jpg</string>
+			<string>BMW750li.jpg</string>
+		</array>
+		<key>content</key>
+		<string>http://www.bmw.vn/vi/index.html</string>
+	</dict>
+	<key>Huyndai</key>
+	<dict>
+		<key>name</key>
+		<string>Ô tô Huyndai</string>
+		<key>price</key>
+		<string>20.000$  - 60.000 $</string>
+		<key>images</key>
+		<array>
+			<string>Accent.jpg</string>
+			<string>Avante.jpg</string>
+			<string>i30.jpg</string>
+			<string>i40.jpg</string>
+			<string>Santa Fe 2017.jpg</string>
+			<string>Sonata Hybrid.jpg</string>
+			<string>Tucson.jpg</string>
+		</array>
+		<key>content</key>
+		<string>Địa chỉ: Huyndai Lê Văn Lương (Hà Nội), Huyndai Hà Đông (Cạnh bến xe yên nghĩa, Hà đông, Hà Nội), Huyndai Giải phóng (Hà nội)</string>
+	</dict>
+	<key>Mercedes</key>
+	<dict>
+		<key>name</key>
+		<string>Xe ô tô Đức Mercedes</string>
+		<key>price</key>
+		<string>100.000$ - 400.000$</string>
+		<key>images</key>
+		<array>
+			<string>C200.jpg</string>
+			<string>C300.jpg</string>
+			<string>E400.jpg</string>
+			<string>GLA.jpg</string>
+			<string>S500.jpg</string>
+			<string>Slr Brabus.jpg</string>
+		</array>
+		<key>content</key>
+		<string>Qúy khách liên hệ hotline 0983 131 268 – Mr Quang – Mercedes An Du Hà Nội – Số 11 Phạm Hùng – Từ Liêm – Hà Nội để nhận giá bán tốt nhất, và những ưu đãi tốt nhất từ nhà máy và đại lý bán hàng.</string>
+	</dict>
+	<key>Porsche</key>
+	<dict>
+		<key>name</key>
+		<string>Siêu xe Porche</string>
+		<key>price</key>
+		<string>200.000$ - 1.000.000$</string>
+		<key>images</key>
+		<array>
+			<string>718 Cayman S.jpg</string>
+			<string>911turbo S cabriolet.jpg</string>
+			<string>Cayanne turbo S.jpg</string>
+			<string>MaCan.jpg</string>
+			<string>panamera turbo executive.jpg</string>
+		</array>
+		<key>content</key>
+		<string>562 Nguyễn Văn Cừ, P. Gia Thụy, Quận Long Biên, Hà Nội
+Điện thoại: 04 62 888 911</string>
+	</dict>
+	<key>Toyota</key>
+	<dict>
+		<key>name</key>
+		<string>Toyota Việt Nam</string>
+		<key>price</key>
+		<string>20.000$ - 70.000$</string>
+		<key>images</key>
+		<array>
+			<string>Corola Artis.jpg</string>
+			<string>Fortuner.jpg</string>
+			<string>Hilux.png</string>
+			<string>toyota-yaris.jpg</string>
+			<string>Vios.jpg</string>
+		</array>
+		<key>content</key>
+		<string>Công ty ô tô Toyota Việt Nam (TMV) được thành lập vào tháng 9 năm 1995, là liên doanh với số vốn đầu tư ban đầu là 89,6 triệu USD từ Tập đoàn Toyota Nhật Bản (70%), Tổng công ty Máy Động Lực và Máy Nông Nghiệp - VEAM (20%) và Công ty TNHH KUO Singapore (10%).
+http://www.toyota.com.vn/</string>
+	</dict>
+</dict>
+</plist>

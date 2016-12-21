@@ -12,6 +12,49 @@
 		8166FD591E0A2E4400E2183B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8166FD571E0A2E4400E2183B /* Main.storyboard */; };
 		8166FD5B1E0A2E4400E2183B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8166FD5A1E0A2E4400E2183B /* Assets.xcassets */; };
 		8166FD5E1E0A2E4400E2183B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8166FD5C1E0A2E4400E2183B /* LaunchScreen.storyboard */; };
+		8166FD951E0A336B00E2183B /* Audi A7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8166FD691E0A336B00E2183B /* Audi A7.jpg */; };
+		8166FD961E0A336B00E2183B /* Audi Q5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8166FD6A1E0A336B00E2183B /* Audi Q5.jpg */; };
+		8166FD971E0A336B00E2183B /* Audi R10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8166FD6B1E0A336B00E2183B /* Audi R10.jpg */; };
+		8166FD981E0A336B00E2183B /* Audi R8.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 8166FD6C1E0A336B00E2183B /* Audi R8.JPG */; };
+		8166FD991E0A336B00E2183B /* Audi-A3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8166FD6D1E0A336B00E2183B /* Audi-A3.jpg */; };
+		8166FD9A1E0A336B00E2183B /* Audi-Q7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8166FD6E1E0A336B00E2183B /* Audi-Q7.jpg */; };
+		8166FD9B1E0A336B00E2183B /* audi-s5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8166FD6F1E0A336B00E2183B /* audi-s5.jpg */; };
+		8166FD9C1E0A336B00E2183B /* xe-audi-A4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8166FD701E0A336B00E2183B /* xe-audi-A4.jpg */; };
+		8166FD9D1E0A336B00E2183B /* BMW i8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8166FD721E0A336B00E2183B /* BMW i8.jpg */; };
+		8166FD9E1E0A336B00E2183B /* BMW X5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8166FD731E0A336B00E2183B /* BMW X5.jpg */; };
+		8166FD9F1E0A336B00E2183B /* BMW x6.png in Resources */ = {isa = PBXBuildFile; fileRef = 8166FD741E0A336B00E2183B /* BMW x6.png */; };
+		8166FDA01E0A336B00E2183B /* bmw-m6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8166FD751E0A336B00E2183B /* bmw-m6.jpg */; };
+		8166FDA11E0A336B00E2183B /* BMW7 Carmudi.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8166FD761E0A336B00E2183B /* BMW7 Carmudi.jpg */; };
+		8166FDA21E0A336B00E2183B /* BMW750li.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8166FD771E0A336B00E2183B /* BMW750li.jpg */; };
+		8166FDA31E0A336B00E2183B /* Accent.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8166FD791E0A336B00E2183B /* Accent.jpg */; };
+		8166FDA41E0A336B00E2183B /* Avante.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8166FD7A1E0A336B00E2183B /* Avante.jpg */; };
+		8166FDA51E0A336B00E2183B /* i30.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8166FD7B1E0A336B00E2183B /* i30.jpg */; };
+		8166FDA61E0A336B00E2183B /* i40.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8166FD7C1E0A336B00E2183B /* i40.jpg */; };
+		8166FDA71E0A336B00E2183B /* Santa Fe 2017.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8166FD7D1E0A336B00E2183B /* Santa Fe 2017.jpg */; };
+		8166FDA81E0A336B00E2183B /* Sonata Hybrid.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8166FD7E1E0A336B00E2183B /* Sonata Hybrid.jpg */; };
+		8166FDA91E0A336B00E2183B /* Sonata.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8166FD7F1E0A336B00E2183B /* Sonata.jpg */; };
+		8166FDAA1E0A336B00E2183B /* Tucson.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8166FD801E0A336B00E2183B /* Tucson.jpg */; };
+		8166FDAB1E0A336B00E2183B /* C200.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8166FD821E0A336B00E2183B /* C200.jpg */; };
+		8166FDAC1E0A336B00E2183B /* C300.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8166FD831E0A336B00E2183B /* C300.jpg */; };
+		8166FDAD1E0A336B00E2183B /* E400.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8166FD841E0A336B00E2183B /* E400.jpg */; };
+		8166FDAE1E0A336B00E2183B /* GLA.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8166FD851E0A336B00E2183B /* GLA.jpg */; };
+		8166FDAF1E0A336B00E2183B /* S500.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8166FD861E0A336B00E2183B /* S500.jpg */; };
+		8166FDB01E0A336B00E2183B /* Slr Brabus.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8166FD871E0A336B00E2183B /* Slr Brabus.jpg */; };
+		8166FDB11E0A336B00E2183B /* 718 Cayman S.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8166FD891E0A336B00E2183B /* 718 Cayman S.jpg */; };
+		8166FDB21E0A336B00E2183B /* 911turbo S cabriolet.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8166FD8A1E0A336B00E2183B /* 911turbo S cabriolet.jpg */; };
+		8166FDB31E0A336B00E2183B /* Cayanne turbo S.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8166FD8B1E0A336B00E2183B /* Cayanne turbo S.jpg */; };
+		8166FDB41E0A336B00E2183B /* MaCan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8166FD8C1E0A336B00E2183B /* MaCan.jpg */; };
+		8166FDB51E0A336B00E2183B /* panamera turbo executive.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8166FD8D1E0A336B00E2183B /* panamera turbo executive.jpg */; };
+		8166FDB61E0A336B00E2183B /* Corola Artis.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8166FD8F1E0A336B00E2183B /* Corola Artis.jpg */; };
+		8166FDB81E0A336B00E2183B /* Fortuner.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8166FD911E0A336B00E2183B /* Fortuner.jpg */; };
+		8166FDB91E0A336B00E2183B /* Hilux.png in Resources */ = {isa = PBXBuildFile; fileRef = 8166FD921E0A336B00E2183B /* Hilux.png */; };
+		8166FDBA1E0A336B00E2183B /* toyota-yaris.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8166FD931E0A336B00E2183B /* toyota-yaris.jpg */; };
+		8166FDBB1E0A336B00E2183B /* Vios.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8166FD941E0A336B00E2183B /* Vios.jpg */; };
+		8166FDBD1E0A339400E2183B /* items.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8166FDBC1E0A339400E2183B /* items.plist */; };
+		8166FDBF1E0A3C5B00E2183B /* items.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8166FDBE1E0A3C5B00E2183B /* items.swift */; };
+		8166FDC11E0A447A00E2183B /* CellItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8166FDC01E0A447A00E2183B /* CellItem.swift */; };
+		8166FDC61E0A684500E2183B /* ViewDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8166FDC51E0A684500E2183B /* ViewDetail.swift */; };
+		8166FDCA1E0A68EB00E2183B /* ViewScroll.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8166FDC91E0A68EB00E2183B /* ViewScroll.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +65,49 @@
 		8166FD5A1E0A2E4400E2183B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8166FD5D1E0A2E4400E2183B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8166FD5F1E0A2E4400E2183B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8166FD691E0A336B00E2183B /* Audi A7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Audi A7.jpg"; sourceTree = "<group>"; };
+		8166FD6A1E0A336B00E2183B /* Audi Q5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Audi Q5.jpg"; sourceTree = "<group>"; };
+		8166FD6B1E0A336B00E2183B /* Audi R10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Audi R10.jpg"; sourceTree = "<group>"; };
+		8166FD6C1E0A336B00E2183B /* Audi R8.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Audi R8.JPG"; sourceTree = "<group>"; };
+		8166FD6D1E0A336B00E2183B /* Audi-A3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Audi-A3.jpg"; sourceTree = "<group>"; };
+		8166FD6E1E0A336B00E2183B /* Audi-Q7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Audi-Q7.jpg"; sourceTree = "<group>"; };
+		8166FD6F1E0A336B00E2183B /* audi-s5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "audi-s5.jpg"; sourceTree = "<group>"; };
+		8166FD701E0A336B00E2183B /* xe-audi-A4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "xe-audi-A4.jpg"; sourceTree = "<group>"; };
+		8166FD721E0A336B00E2183B /* BMW i8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "BMW i8.jpg"; sourceTree = "<group>"; };
+		8166FD731E0A336B00E2183B /* BMW X5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "BMW X5.jpg"; sourceTree = "<group>"; };
+		8166FD741E0A336B00E2183B /* BMW x6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BMW x6.png"; sourceTree = "<group>"; };
+		8166FD751E0A336B00E2183B /* bmw-m6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "bmw-m6.jpg"; sourceTree = "<group>"; };
+		8166FD761E0A336B00E2183B /* BMW7 Carmudi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "BMW7 Carmudi.jpg"; sourceTree = "<group>"; };
+		8166FD771E0A336B00E2183B /* BMW750li.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = BMW750li.jpg; sourceTree = "<group>"; };
+		8166FD791E0A336B00E2183B /* Accent.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Accent.jpg; sourceTree = "<group>"; };
+		8166FD7A1E0A336B00E2183B /* Avante.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Avante.jpg; sourceTree = "<group>"; };
+		8166FD7B1E0A336B00E2183B /* i30.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = i30.jpg; sourceTree = "<group>"; };
+		8166FD7C1E0A336B00E2183B /* i40.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = i40.jpg; sourceTree = "<group>"; };
+		8166FD7D1E0A336B00E2183B /* Santa Fe 2017.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Santa Fe 2017.jpg"; sourceTree = "<group>"; };
+		8166FD7E1E0A336B00E2183B /* Sonata Hybrid.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Sonata Hybrid.jpg"; sourceTree = "<group>"; };
+		8166FD7F1E0A336B00E2183B /* Sonata.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Sonata.jpg; sourceTree = "<group>"; };
+		8166FD801E0A336B00E2183B /* Tucson.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Tucson.jpg; sourceTree = "<group>"; };
+		8166FD821E0A336B00E2183B /* C200.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = C200.jpg; sourceTree = "<group>"; };
+		8166FD831E0A336B00E2183B /* C300.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = C300.jpg; sourceTree = "<group>"; };
+		8166FD841E0A336B00E2183B /* E400.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = E400.jpg; sourceTree = "<group>"; };
+		8166FD851E0A336B00E2183B /* GLA.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = GLA.jpg; sourceTree = "<group>"; };
+		8166FD861E0A336B00E2183B /* S500.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = S500.jpg; sourceTree = "<group>"; };
+		8166FD871E0A336B00E2183B /* Slr Brabus.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Slr Brabus.jpg"; sourceTree = "<group>"; };
+		8166FD891E0A336B00E2183B /* 718 Cayman S.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "718 Cayman S.jpg"; sourceTree = "<group>"; };
+		8166FD8A1E0A336B00E2183B /* 911turbo S cabriolet.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "911turbo S cabriolet.jpg"; sourceTree = "<group>"; };
+		8166FD8B1E0A336B00E2183B /* Cayanne turbo S.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Cayanne turbo S.jpg"; sourceTree = "<group>"; };
+		8166FD8C1E0A336B00E2183B /* MaCan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = MaCan.jpg; sourceTree = "<group>"; };
+		8166FD8D1E0A336B00E2183B /* panamera turbo executive.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "panamera turbo executive.jpg"; sourceTree = "<group>"; };
+		8166FD8F1E0A336B00E2183B /* Corola Artis.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Corola Artis.jpg"; sourceTree = "<group>"; };
+		8166FD911E0A336B00E2183B /* Fortuner.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Fortuner.jpg; sourceTree = "<group>"; };
+		8166FD921E0A336B00E2183B /* Hilux.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Hilux.png; sourceTree = "<group>"; };
+		8166FD931E0A336B00E2183B /* toyota-yaris.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "toyota-yaris.jpg"; sourceTree = "<group>"; };
+		8166FD941E0A336B00E2183B /* Vios.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Vios.jpg; sourceTree = "<group>"; };
+		8166FDBC1E0A339400E2183B /* items.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = items.plist; sourceTree = "<group>"; };
+		8166FDBE1E0A3C5B00E2183B /* items.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = items.swift; sourceTree = "<group>"; };
+		8166FDC01E0A447A00E2183B /* CellItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CellItem.swift; sourceTree = "<group>"; };
+		8166FDC51E0A684500E2183B /* ViewDetail.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewDetail.swift; sourceTree = "<group>"; };
+		8166FDC91E0A68EB00E2183B /* ViewScroll.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewScroll.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,14 +140,129 @@
 		8166FD521E0A2E4400E2183B /* autoShop */ = {
 			isa = PBXGroup;
 			children = (
+				8166FDC41E0A681400E2183B /* View */,
+				8166FD651E0A335200E2183B /* Source */,
 				8166FD531E0A2E4400E2183B /* AppDelegate.swift */,
-				8166FD551E0A2E4400E2183B /* ViewController.swift */,
 				8166FD571E0A2E4400E2183B /* Main.storyboard */,
 				8166FD5A1E0A2E4400E2183B /* Assets.xcassets */,
 				8166FD5C1E0A2E4400E2183B /* LaunchScreen.storyboard */,
 				8166FD5F1E0A2E4400E2183B /* Info.plist */,
 			);
 			path = autoShop;
+			sourceTree = "<group>";
+		};
+		8166FD651E0A335200E2183B /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				8166FDBE1E0A3C5B00E2183B /* items.swift */,
+				8166FDC01E0A447A00E2183B /* CellItem.swift */,
+				8166FD671E0A336B00E2183B /* Oto */,
+			);
+			name = Source;
+			sourceTree = "<group>";
+		};
+		8166FD671E0A336B00E2183B /* Oto */ = {
+			isa = PBXGroup;
+			children = (
+				8166FDBC1E0A339400E2183B /* items.plist */,
+				8166FD681E0A336B00E2183B /* Audi */,
+				8166FD711E0A336B00E2183B /* BMW */,
+				8166FD781E0A336B00E2183B /* Huyndai */,
+				8166FD811E0A336B00E2183B /* Mercedes */,
+				8166FD881E0A336B00E2183B /* Porsche */,
+				8166FD8E1E0A336B00E2183B /* Toyota */,
+			);
+			path = Oto;
+			sourceTree = "<group>";
+		};
+		8166FD681E0A336B00E2183B /* Audi */ = {
+			isa = PBXGroup;
+			children = (
+				8166FD691E0A336B00E2183B /* Audi A7.jpg */,
+				8166FD6A1E0A336B00E2183B /* Audi Q5.jpg */,
+				8166FD6B1E0A336B00E2183B /* Audi R10.jpg */,
+				8166FD6C1E0A336B00E2183B /* Audi R8.JPG */,
+				8166FD6D1E0A336B00E2183B /* Audi-A3.jpg */,
+				8166FD6E1E0A336B00E2183B /* Audi-Q7.jpg */,
+				8166FD6F1E0A336B00E2183B /* audi-s5.jpg */,
+				8166FD701E0A336B00E2183B /* xe-audi-A4.jpg */,
+			);
+			path = Audi;
+			sourceTree = "<group>";
+		};
+		8166FD711E0A336B00E2183B /* BMW */ = {
+			isa = PBXGroup;
+			children = (
+				8166FD721E0A336B00E2183B /* BMW i8.jpg */,
+				8166FD731E0A336B00E2183B /* BMW X5.jpg */,
+				8166FD741E0A336B00E2183B /* BMW x6.png */,
+				8166FD751E0A336B00E2183B /* bmw-m6.jpg */,
+				8166FD761E0A336B00E2183B /* BMW7 Carmudi.jpg */,
+				8166FD771E0A336B00E2183B /* BMW750li.jpg */,
+			);
+			path = BMW;
+			sourceTree = "<group>";
+		};
+		8166FD781E0A336B00E2183B /* Huyndai */ = {
+			isa = PBXGroup;
+			children = (
+				8166FD791E0A336B00E2183B /* Accent.jpg */,
+				8166FD7A1E0A336B00E2183B /* Avante.jpg */,
+				8166FD7B1E0A336B00E2183B /* i30.jpg */,
+				8166FD7C1E0A336B00E2183B /* i40.jpg */,
+				8166FD7D1E0A336B00E2183B /* Santa Fe 2017.jpg */,
+				8166FD7E1E0A336B00E2183B /* Sonata Hybrid.jpg */,
+				8166FD7F1E0A336B00E2183B /* Sonata.jpg */,
+				8166FD801E0A336B00E2183B /* Tucson.jpg */,
+			);
+			path = Huyndai;
+			sourceTree = "<group>";
+		};
+		8166FD811E0A336B00E2183B /* Mercedes */ = {
+			isa = PBXGroup;
+			children = (
+				8166FD821E0A336B00E2183B /* C200.jpg */,
+				8166FD831E0A336B00E2183B /* C300.jpg */,
+				8166FD841E0A336B00E2183B /* E400.jpg */,
+				8166FD851E0A336B00E2183B /* GLA.jpg */,
+				8166FD861E0A336B00E2183B /* S500.jpg */,
+				8166FD871E0A336B00E2183B /* Slr Brabus.jpg */,
+			);
+			path = Mercedes;
+			sourceTree = "<group>";
+		};
+		8166FD881E0A336B00E2183B /* Porsche */ = {
+			isa = PBXGroup;
+			children = (
+				8166FD891E0A336B00E2183B /* 718 Cayman S.jpg */,
+				8166FD8A1E0A336B00E2183B /* 911turbo S cabriolet.jpg */,
+				8166FD8B1E0A336B00E2183B /* Cayanne turbo S.jpg */,
+				8166FD8C1E0A336B00E2183B /* MaCan.jpg */,
+				8166FD8D1E0A336B00E2183B /* panamera turbo executive.jpg */,
+			);
+			path = Porsche;
+			sourceTree = "<group>";
+		};
+		8166FD8E1E0A336B00E2183B /* Toyota */ = {
+			isa = PBXGroup;
+			children = (
+				8166FD8F1E0A336B00E2183B /* Corola Artis.jpg */,
+				8166FD911E0A336B00E2183B /* Fortuner.jpg */,
+				8166FD921E0A336B00E2183B /* Hilux.png */,
+				8166FD931E0A336B00E2183B /* toyota-yaris.jpg */,
+				8166FD941E0A336B00E2183B /* Vios.jpg */,
+			);
+			path = Toyota;
+			sourceTree = "<group>";
+		};
+		8166FDC41E0A681400E2183B /* View */ = {
+			isa = PBXGroup;
+			children = (
+				8166FD551E0A2E4400E2183B /* ViewController.swift */,
+				8166FDC51E0A684500E2183B /* ViewDetail.swift */,
+				8166FDC91E0A68EB00E2183B /* ViewScroll.swift */,
+			);
+			name = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -124,8 +325,47 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8166FDA71E0A336B00E2183B /* Santa Fe 2017.jpg in Resources */,
+				8166FD9D1E0A336B00E2183B /* BMW i8.jpg in Resources */,
+				8166FDBD1E0A339400E2183B /* items.plist in Resources */,
+				8166FDA11E0A336B00E2183B /* BMW7 Carmudi.jpg in Resources */,
+				8166FD9A1E0A336B00E2183B /* Audi-Q7.jpg in Resources */,
+				8166FDA01E0A336B00E2183B /* bmw-m6.jpg in Resources */,
+				8166FD981E0A336B00E2183B /* Audi R8.JPG in Resources */,
+				8166FDB91E0A336B00E2183B /* Hilux.png in Resources */,
+				8166FDB51E0A336B00E2183B /* panamera turbo executive.jpg in Resources */,
+				8166FDA81E0A336B00E2183B /* Sonata Hybrid.jpg in Resources */,
+				8166FDB21E0A336B00E2183B /* 911turbo S cabriolet.jpg in Resources */,
+				8166FDA91E0A336B00E2183B /* Sonata.jpg in Resources */,
+				8166FDAD1E0A336B00E2183B /* E400.jpg in Resources */,
+				8166FDB61E0A336B00E2183B /* Corola Artis.jpg in Resources */,
+				8166FDA21E0A336B00E2183B /* BMW750li.jpg in Resources */,
+				8166FDA51E0A336B00E2183B /* i30.jpg in Resources */,
+				8166FDB11E0A336B00E2183B /* 718 Cayman S.jpg in Resources */,
+				8166FD9B1E0A336B00E2183B /* audi-s5.jpg in Resources */,
+				8166FD9E1E0A336B00E2183B /* BMW X5.jpg in Resources */,
+				8166FDAB1E0A336B00E2183B /* C200.jpg in Resources */,
+				8166FDBB1E0A336B00E2183B /* Vios.jpg in Resources */,
+				8166FDB41E0A336B00E2183B /* MaCan.jpg in Resources */,
 				8166FD5E1E0A2E4400E2183B /* LaunchScreen.storyboard in Resources */,
+				8166FDA41E0A336B00E2183B /* Avante.jpg in Resources */,
+				8166FD971E0A336B00E2183B /* Audi R10.jpg in Resources */,
+				8166FDB01E0A336B00E2183B /* Slr Brabus.jpg in Resources */,
+				8166FDAF1E0A336B00E2183B /* S500.jpg in Resources */,
+				8166FD951E0A336B00E2183B /* Audi A7.jpg in Resources */,
 				8166FD5B1E0A2E4400E2183B /* Assets.xcassets in Resources */,
+				8166FD9F1E0A336B00E2183B /* BMW x6.png in Resources */,
+				8166FDBA1E0A336B00E2183B /* toyota-yaris.jpg in Resources */,
+				8166FDA61E0A336B00E2183B /* i40.jpg in Resources */,
+				8166FDAC1E0A336B00E2183B /* C300.jpg in Resources */,
+				8166FDAE1E0A336B00E2183B /* GLA.jpg in Resources */,
+				8166FD9C1E0A336B00E2183B /* xe-audi-A4.jpg in Resources */,
+				8166FD961E0A336B00E2183B /* Audi Q5.jpg in Resources */,
+				8166FDAA1E0A336B00E2183B /* Tucson.jpg in Resources */,
+				8166FDB31E0A336B00E2183B /* Cayanne turbo S.jpg in Resources */,
+				8166FDB81E0A336B00E2183B /* Fortuner.jpg in Resources */,
+				8166FDA31E0A336B00E2183B /* Accent.jpg in Resources */,
+				8166FD991E0A336B00E2183B /* Audi-A3.jpg in Resources */,
 				8166FD591E0A2E4400E2183B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,8 +377,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8166FDC11E0A447A00E2183B /* CellItem.swift in Sources */,
+				8166FDC61E0A684500E2183B /* ViewDetail.swift in Sources */,
 				8166FD561E0A2E4400E2183B /* ViewController.swift in Sources */,
+				8166FDCA1E0A68EB00E2183B /* ViewScroll.swift in Sources */,
 				8166FD541E0A2E4400E2183B /* AppDelegate.swift in Sources */,
+				8166FDBF1E0A3C5B00E2183B /* items.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
